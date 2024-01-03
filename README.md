@@ -14,13 +14,12 @@ Features:
 Instructions:
 
 1. Open a terminal window
-2. Navigate to the directory containing the rock_paper_scissors.py file
-3. Run the script by typing python rock_paper_scissors.py and pressing Enter
+2. Navigate to the directory containing the rockPaperScissors.py file
+3. Run the script by typing python rockPaperScissors.py and pressing Enter
 4. Choose Rock, Paper, or Scissors by typing rock, paper, or scissors and pressing Enter
 5. The computer will randomly choose its option
 6. The winner of the round will be announced
 7. Repeat steps 4-6 to play another round
-8. To reset the game and start a new one, type reset and press Enter
 
 Notes:
 - This game is for educational purposes only
